@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Josiah Nyakwara 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer crafting digital experiences with the MERN Stack</h3>
 
@@ -82,7 +81,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
