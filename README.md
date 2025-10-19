@@ -81,7 +81,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/TJ-dot-1/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
