@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🔭 I'm currently working on **building innovative web applications**
 - 🌱 I'm currently learning **advanced MERN stack patterns and best practices**
@@ -80,14 +80,8 @@
 
 ### 🐍 Contribution Snake
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TJ-dot-1/TJ-dot-1/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/Platane/snk/raw/output/TJ-dot-1/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -95,7 +89,7 @@
 ### 🔝 My Projects
 
 <p align="center">
-  <i>🚀 Check out my repositories for exciting projects!</i>
+  <i> Check out my repositories for exciting projects!</i>
   <br><br>
   <a href="https://github.com/TJ-dot-1?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20Repos-2088FF?style=for-the-badge&logo=repo&logoColor=white"/>
